@@ -1,0 +1,27 @@
+{
+  "version": "2.8.0",
+  "date": "2025-04-10",
+  "changelog": [
+    "✅ Sistema de limpeza automática de mensagens",
+    "🗑️ Chat sempre limpo - apaga mensagens antigas",
+    "⏰ Mensagens auto-deletam após 5 minutos",
+    "🔙 Botão Voltar corrigido - não volta 2x mais",
+    "📋 Nomes de grupos com TODOS os caracteres (emojis, símbolos)",
+    "✅ Botão 'Selecionar Todos os Grupos' adicionado",
+    "🎯 Mensagens só apagam DEPOIS de usar (corrigido)",
+    "🔙 Botões Voltar adicionados em todos os menus",
+    "🚀 Rajar 1, 2, 3, 4 com limpeza correta",
+    "💎 Menu VIP com botão Voltar"
+  ],
+  "features": [
+    "Sistema de rastreamento automático de mensagens",
+    "Limpeza inteligente (apaga depois de usar)",
+    "Chat limpo em todas as interações",
+    "Auto-delete 5 minutos",
+    "Nomes de grupos preservados (emojis + símbolos)",
+    "Seleção de todos os grupos",
+    "Navegação fluida com botões Voltar",
+    "1 dia teste grátis",
+    "Sem propagandas"
+  ]
+}

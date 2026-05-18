@@ -1,0 +1,8 @@
+node_modules/
+sessions/
+configs/
+backups/
+.npm/
+data/*.log
+data/*.json
+data/.bot.lock
